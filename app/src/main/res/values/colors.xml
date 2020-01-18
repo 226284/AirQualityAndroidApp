@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#03A9F4</color>
+    <color name="colorPrimaryDark">#2196F3</color>
+    <color name="colorAccent">#3F51B5</color>
+
+    <color name="colorAQI5">#8500BE</color>
+    <color name="colorAQI4">#DD0000</color>
+    <color name="colorAQI3">#D87D1B</color>
+    <color name="colorAQI2">#D8D51B</color>
+    <color name="colorAQI1">#A6D81B</color>
+    <color name="colorAQI0">#5DD81B</color>
+    <color name="colorAQIN">#B3B3B3</color>
+</resources>

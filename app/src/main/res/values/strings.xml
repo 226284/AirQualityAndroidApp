@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">AirQualityApp</string>
+    <string name="title_home">Home</string>
+    <string name="title_stations">Stations</string>
+    <string name="title_map">Map</string>
+
+    <string name="stringAQIN">No data</string>
+    <string name="stringAQI0">Very Good</string>
+    <string name="stringAQI1">Good</string>
+    <string name="stringAQI2">Moderate</string>
+    <string name="stringAQI3">Unhealthy</string>
+    <string name="stringAQI4">Very Unhealthy</string>
+    <string name="stringAQI5">Hazardous</string>
+
+</resources>
